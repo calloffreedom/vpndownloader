@@ -1,0 +1,14 @@
+{
+  "protonvpn": [
+    "https://mirror1.example.com/protonvpn-installer.exe",
+    "https://mirror2.example.com/protonvpn-installer.exe"
+  ],
+  "xvpn": [
+    "https://mirror1.example.com/xvpn-setup.exe",
+    "https://mirror2.example.com/xvpn-setup.exe"
+  ],
+  "tor": [
+    "https://mirror1.example.com/torbrowser-install.exe",
+    "https://mirror2.example.com/torbrowser-install.exe"
+  ]
+}
