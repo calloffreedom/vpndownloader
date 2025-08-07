@@ -3,9 +3,9 @@
   "features": {
     "ghcr.io/devcontainers/features/desktop-lite:1": {}
   },
-  "forwardPorts": [6080],
+  "forwardPorts": [6090],
   "portsAttributes": {
-    "6080": {
+    "6090": {
       "label": "desktop"
     }
   }
