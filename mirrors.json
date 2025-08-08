@@ -1,23 +1,36 @@
 {
-  "protonvpn": {
+  "ProtonVPN": {
     "Windows": [
-      "https://mirror.example.com/vpn-client-windows-v1.0.exe",
-      "https://backup.example.org/vpn-client-windows-v1.0.exe"
-    ],
-    "Linux": [
-      "https://mirror.example.com/vpn-client-linux-v1.0.tar.gz"
+      "https://vpn.protondownload.com/download/ProtonVPN_v4.2.1_x64.exe",
+      "https://web.archive.org/web/2/https://vpn.protondownload.com/download/ProtonVPN_v4.2.1_x64.exe"
     ],
     "macOS": [
-      "https://mirror.example.com/vpn-client-macos-v1.0.dmg"
+      "https://vpn.protondownload.com/download/macos/5.1.0/ProtonVPN_mac_v5.1.0.dmg",
+      "https://web.archive.org/web/2/https://vpn.protondownload.com/download/macos/5.1.0/ProtonVPN_mac_v5.1.0.dmg"
     ]
   },
-  "x-vpn": {
+  "X-VPN": {
     "Windows": [
-      "https://mirror.example.com/secure-browser-windows.exe"
+      "https://z3d9.com/6ays8gw3vw/X-VPN_Installer77.2_4764_7b1aeeaf_2025-06-26-01-23-36.exe",
+      "https://web.archive.org/web/2/https://z3d9.com/6ays8gw3vw/X-VPN_Installer77.2_4764_7b1aeeaf_2025-06-26-01-23-36.exe"
+    ],
+    "macOS": [
+      "https://app.xvpncdn.com/6ays8gw3vw/X-VPN_77.1.2_4757_a9e00cf8_2025-06-23-01-28-23.dmg",
+      "https://web.archive.org/web/2/https://app.xvpncdn.com/6ays8gw3vw/X-VPN_77.1.2_4757_a9e00cf8_2025-06-23-01-28-23.dmg"
+    ]
+  },
+  "Tor Browser": {
+    "Windows": [
+      "https://www.torproject.org/dist/torbrowser/14.5.5/tor-browser-windows-x86_64-portable-14.5.5.exe",
+      "https://web.archive.org/web/2/https://www.torproject.org/dist/torbrowser/14.5.5/tor-browser-windows-x86_64-portable-14.5.5.exe"
+    ],
+    "macOS": [
+      "https://www.torproject.org/dist/torbrowser/14.5.5/tor-browser-macos-14.5.5.dmg",
+      "https://web.archive.org/web/2/https://www.torproject.org/dist/torbrowser/14.5.5/tor-browser-macos-14.5.5.dmg"
     ],
     "Linux": [
-      "https://backup.example.org/secure-browser-linux.deb",
-      "https://mirror.example.com/secure-browser-linux.rpm"
+      "https://www.torproject.org/dist/torbrowser/14.5.5/tor-browser-linux-x86_64-14.5.5.tar.xz",
+      "https://web.archive.org/web/2/https://www.torproject.org/dist/torbrowser/14.5.5/tor-browser-linux-x86_64-14.5.5.tar.xz"
     ]
   }
 }
