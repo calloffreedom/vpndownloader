@@ -1,14 +1,23 @@
 {
-  "protonvpn": [
-    "https://mirror1.example.com/protonvpn-installer.exe",
-    "https://mirror2.example.com/protonvpn-installer.exe"
-  ],
-  "xvpn": [
-    "https://mirror1.example.com/xvpn-setup.exe",
-    "https://mirror2.example.com/xvpn-setup.exe"
-  ],
-  "tor": [
-    "https://mirror1.example.com/torbrowser-install.exe",
-    "https://mirror2.example.com/torbrowser-install.exe"
-  ]
+  "protonvpn": {
+    "Windows": [
+      "https://mirror.example.com/vpn-client-windows-v1.0.exe",
+      "https://backup.example.org/vpn-client-windows-v1.0.exe"
+    ],
+    "Linux": [
+      "https://mirror.example.com/vpn-client-linux-v1.0.tar.gz"
+    ],
+    "macOS": [
+      "https://mirror.example.com/vpn-client-macos-v1.0.dmg"
+    ]
+  },
+  "x-vpn": {
+    "Windows": [
+      "https://mirror.example.com/secure-browser-windows.exe"
+    ],
+    "Linux": [
+      "https://backup.example.org/secure-browser-linux.deb",
+      "https://mirror.example.com/secure-browser-linux.rpm"
+    ]
+  }
 }
